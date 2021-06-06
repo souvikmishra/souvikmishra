@@ -4,4 +4,7 @@
 - 🌱 I’m currently learning a bit of network security (I use debian btw), getting into cloud tech and trying to pick up React.js while brushing up on my CC skills 
 - 💞️ I'd love collaborate on any interesting open source project that has an interesting use-case
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people
-- 📫 You can connect with me on linkedIn at https://www.linkedin.com/in/souvikmishra/ or you can mail me at mishra.souvik911@gmail.com
+- 📫 My Socials
+  - Connect with me on LinkedIn at https://www.linkedin.com/in/souvikmishra/
+  - Mail me at mishra.souvik911@gmail.com or
+  - Follow me on Instagram at https://www.instagram.com/souvik911_/

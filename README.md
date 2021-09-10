@@ -6,6 +6,6 @@
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
-  - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects and opportunities and 
+  - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects/opportunities and 
   - Follow me on [Instagram](https://www.instagram.com/souvik911_/) to know what I'm upto in my free time
 ### Have a nice day, and Stay Safe!

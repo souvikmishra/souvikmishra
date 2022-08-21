@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Souvik!
-- :man_technologist: I usually code in Python, develop web-apps using Angular, and was once knees deep in ML, DL and a bit of AI.
-- 👀 Projects that interest me are usually tools and services that people thought they'd never need until it's out in the market, and now they need it more than anything else
-- 🌱 I’m currently learning a bit of network security (I use debian btw), getting into cloud tech and trying to pick up React.js while brushing up on my CC skills 
-- 💞️ I'd love to collaborate on any open source project that has an interesting use-case
+- :man_technologist: I am actively working on Python, React while building CI/CD pipelines for them.
+- 👀 I am currently exploring the domain of web3 and solidity
+- 🌱 The book I am currently reading is [The Almanac Of Naval Ravikant](https://www.navalmanack.com/)
+- 🥅 Goals 2022: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
@@ -27,8 +27,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?styleflat-square&logo=material-ui&logoColor=white)

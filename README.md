@@ -42,5 +42,4 @@
 
 <p align = "center">
   <img align="left" alt="Souvik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikmishra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmishra&hide=css,cpp,html,tcl&theme=tokyonight">
 </p>

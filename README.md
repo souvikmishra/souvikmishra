@@ -2,7 +2,7 @@
 - :man_technologist: I am actively working on Python, React while building CI/CD pipelines for them.
 - 👀 I am currently exploring the domain of web3 and solidity
 - 🌱 The book I am currently reading is [The Almanac Of Naval Ravikant](https://www.navalmanack.com/)
-- 🥅 Goals 2022: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community
+- 🥅 Goals 2023: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
@@ -36,7 +36,9 @@
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?styleflat-square&logo=material-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
 
 ### My Github Stats
 

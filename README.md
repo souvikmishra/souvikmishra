@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Souvik!
-- :man_technologist: I am actively working on Python, React while building CI/CD pipelines for them.
-- 👀 I am currently exploring the domain of web3 and solidity
-- 🌱 The book I am currently reading is [The Almanac Of Naval Ravikant](https://www.navalmanack.com/)
-- 🥅 Goals 2023: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community
-- :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Souvik!
+- :man_technologist: I am actively messing with software using Python, JavaScipt and its various flavors while building CI/CD pipelines for them.
+- 👀 I am currently engineering frontends in React and Svelte for web3 ecosystems while exploring the vast domain of solidity.
+- 🌱 The book I am currently reading is [The Almanac Of Naval Ravikant](https://www.navalmanack.com/).
+- 🥅 Goals 2023: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community.
+- :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people.
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
   - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects/opportunities, and, 

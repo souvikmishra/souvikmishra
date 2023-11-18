@@ -41,6 +41,9 @@
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-five-hazel.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/master911911)
+
 ### My Github Stats
 
 <p align = "center">

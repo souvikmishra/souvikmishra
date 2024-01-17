@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Souvik!
 - :man_technologist: I am actively messing with software using Python, JavaScipt and its various flavors while building CI/CD pipelines for them.
 - 👀 I am currently engineering frontends in React and Svelte for web3 ecosystems while exploring the vast domain of solidity.
-- 🌱 The book I am currently reading is [The Almanac Of Naval Ravikant](https://www.navalmanack.com/).
-- 🥅 Goals 2023: Create a [DEV.TO](https://dev.to/theavgwebdeveloper) page and give back to the community.
+- 🌱 The book I am currently reading is [Tao of Seneca](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf).
+- 🥅 Goals 2024: Create an NFT, dive deeper into web3 and ZK tech.
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people.
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
@@ -48,4 +48,5 @@
 
 <p align = "center">
   <img align="left" alt="Souvik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikmishra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=souvikmishra&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
 </p>

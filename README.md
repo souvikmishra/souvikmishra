@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Souvik!
-- :man_technologist: I am actively messing with software using Python, JavaScipt and its various flavors while building CI/CD pipelines for them.
+- :man_technologist: I am actively messing with software using Python, JavaScript and its various flavors while building CI/CD pipelines for them.
 - 👀 I am currently engineering frontends in React and Svelte for web3 ecosystems while exploring the vast domain of solidity.
 - 🌱 The book I am currently reading is [Tao of Seneca](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf).
 - 🥅 Goals 2024: Create an NFT, dive deeper into web3 and ZK tech.

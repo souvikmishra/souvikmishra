@@ -6,7 +6,7 @@
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people, oh and basketball.
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
-  - Check out my [twitter](https://twitter.com/kivous911) or should I say "[X](https://x.com/kivous911)" to see me rant about tech stuff.
+  - Check out my [twitter](https://twitter.com/0xkivous) or should I say "[X](https://x.com/0xkivous)" to see me rant about tech stuff.
   - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects/opportunities, and, 
   - Follow me on [Instagram](https://www.instagram.com/souvik911_/) to know what I'm upto in my free time
 

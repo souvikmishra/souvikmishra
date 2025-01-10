@@ -7,8 +7,7 @@
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,
   - Check out my [twitter](https://twitter.com/0xkivous) or should I say "[X](https://x.com/0xkivous)" to see me rant about tech stuff.
-  - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects/opportunities, and, 
-  - Follow me on [Instagram](https://www.instagram.com/souvik911_/) to know what I'm upto in my free time
+  - Send me a [mail](mishra.souvik911@gmail.com) to discuss new projects/opportunities.
 
 ### Tech I work with
 

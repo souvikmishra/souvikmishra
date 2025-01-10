@@ -2,7 +2,7 @@
 - :man_technologist: I am actively messing with software using Python, JavaScript and its various flavors. Also, I dabble in some web3 stuff.
 - 👀 I am currently engineering frontends in React and Svelte for web3 ecosystems while exploring the vast domain of solidity.
 - 🌱 The book I am currently reading is [Tao of Seneca](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf).
-- 🥅 Goals 2024: Learn Rust, dive deeper into web3 and ZK tech.
+- 🥅 Goals 2025: Learn Rust, dive deeper into web3 and focus on user interaction on web.
 - :bearded_person: I like drinking coffee, discussing about new tech, solving riddles and meeting new people, oh and basketball.
 - 📫 My Socials
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/souvikmishra/) to stay updated on what I am doing professionally,

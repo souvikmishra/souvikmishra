@@ -42,9 +42,3 @@
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-five-hazel.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/master911911)
-
-### My Github Stats
-
-<p align = "center">
-  <img align="left" alt="Souvik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikmishra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</p>
